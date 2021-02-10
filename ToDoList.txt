@@ -1,0 +1,4 @@
+Cooking, 3
+Travel, 4
+Buy a Car, 1
+Go to grocery, 6
